@@ -11,12 +11,12 @@ Track the details of the users downloading the pdf files from wordpress site.
 
 A simple plugin to track the downloads from the site.
 
-This plugin will help the wordpress admin to track the whitepaper(PDF Files) from the site and to manage it from the wordpress admin area.
+This plugin will help the wordpress admin to track the whitepaper(PDF Files) download from the site and to manage it from the wordpress admin area.
 
 
 == Installation ==
 
-1. Download the plugin named dtracker_20110105.zip to the system.
+1. Download the plugin to the system.
 2. Go to the Wordpress admin dashboard.
 3. Click on the 'Add New' under the 'Plugins' section.
 4. Select the Upload method to add the new plugin.
@@ -42,10 +42,10 @@ Steps to setup a download section:
 
 There is a link called 'DTracker' under the Settings section in the Admin dashboard. Clicking on that link will direct to the page with contact details. 
 
-== Screenshots ==
-
-== Changlog ==
+== Changelog ==
 = 1.5 =
+*First version
+*Basic features
 
 == Upgrade Notice ==
 
